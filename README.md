@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @chrystianfarias
+- 👀 My hobby is cars! I love it!
+- 💻 I’m Mixed Reality Developer
+- 🧊 I'm Unity Developer 💓
