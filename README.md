@@ -5,6 +5,11 @@
 <p align='center'>
   A Mixed Reality Microsoft MVP and Unity Developer from Tubarão, Brazil.
 </p>
+<p align='center'>
+  <a href="[https://www.youtube.com/chrystianfarias/](https://mvp.microsoft.com/pt-br/PublicProfile/5004977?fullName=Chrystian%20Farias)">
+  <img src="https://img.shields.io/badge/MVP-%230078D6.svg?&style=for-the-badge&logo=microsoft&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
 
 
 
