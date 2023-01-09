@@ -6,8 +6,8 @@
   A Mixed Reality Microsoft MVP and Unity Developer from Tubarão, Brazil.
 </p>
 <p align='center'>
-  <a href="[https://www.youtube.com/chrystianfarias/](https://mvp.microsoft.com/pt-br/PublicProfile/5004977?fullName=Chrystian%20Farias)">
-  <img src="https://img.shields.io/badge/MVP-%230078D6.svg?&style=for-the-badge&logo=microsoft&logoColor=white" />
+  <a href="https://mvp.microsoft.com/pt-br/PublicProfile/5004977?fullName=Chrystian%20Farias">
+    <img src="https://img.shields.io/badge/MVP-%230078D6.svg?&style=for-the-badge&logo=microsoft&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
 
@@ -15,13 +15,13 @@
 
 <p align='center'>
   
-  <a href="https://www.youtube.com/chrystianfarias/">
+  <a href="https://www.linkedin.com/in/chrystianfarias/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/chrystian.farias/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/chrystian.farias/">
+  <a href="https://www.youtube.com/chrystianfarias/">
     <img src="https://img.shields.io/badge/youtube-red.svg?&style=for-the-badge&logo=youtube&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
