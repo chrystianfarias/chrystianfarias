@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A Mixed Reality and Unity Developer from Tubarão, Brazil.
+  A Mixed Reality Microsoft MVP and Unity Developer from Tubarão, Brazil.
 </p>
 
 
