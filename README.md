@@ -33,12 +33,11 @@
 
 <p align='center'>
   💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/TUF-%230078D6.svg?&style=for-the-badge&logo=asus&logoColor=white" />
   <img src="https://img.shields.io/badge/windows 11-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i9%2013th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-64GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/rtx-4070%20super-%230071C5.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
-
 <!-- <details align='center'>
   <summary>:zap: My workspace specs</summary>
 </details>-->
@@ -62,8 +61,8 @@
 <img align="right" src="https://img.shields.io/badge/Unity 3D-3498DB?logo=unity&logoColor=white" />
 
 - 👨‍💻 **Mixed Reality Developer**\
-📆 2021 - moment\
-📍 **Avanade** - São Paulo/SP, Brazil
+📆 2023 - moment\
+📍 **PBSF** - São Paulo/SP, Brazil
   
 
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
