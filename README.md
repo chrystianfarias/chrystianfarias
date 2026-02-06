@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A Mixed Reality Microsoft MVP and Unity Developer from Tubarão, Brazil.
+  A Mixed Reality Microsoft MVP 2022-2024 and Full Stack Developer from Laguna, Brazil.
 </p>
 <p align='center'>
   <a href="https://mvp.microsoft.com/pt-br/PublicProfile/5004977?fullName=Chrystian%20Farias">
@@ -25,10 +25,6 @@
     <img src="https://img.shields.io/badge/youtube-red.svg?&style=for-the-badge&logo=youtube&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
-</p>
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=chrystianfarias&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <p align='center'>
